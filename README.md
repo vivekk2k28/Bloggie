@@ -1,6 +1,7 @@
 DEV-BlOG
 
 Dev-Blog is a dynamic web application that allows users to register, read, like, and comment on posts. Additionally, blog posters can register as admins, enabling them to add and edit their blog posts based on their technical expertise. As a technical blog post site, we have incorporated tags to categorize posts by technology, making it easy for users to find content related to their interests.
+![homepage](https://github.com/vivekk2k28/Bloggie/assets/136052998/9012e8b1-54e9-487f-b7d1-41b8fef28383)
 
 To Run This project you have to do following steps:-
 1. Clone the Git Repository:
